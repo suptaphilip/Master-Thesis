@@ -1,0 +1,89 @@
+\BOOKMARK [0][-]{section*.2}{Abstract}{}% 1
+\BOOKMARK [0][-]{section*.3}{Acknowledgement}{}% 2
+\BOOKMARK [0][-]{section*.5}{Dedication}{}% 3
+\BOOKMARK [0][-]{section*.7}{Table of Contents}{}% 4
+\BOOKMARK [0][-]{section*.9}{List of Figures}{}% 5
+\BOOKMARK [0][-]{section*.11}{List of Tables}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.1}{Scenario 1: Hungry Student}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.2}{Scenario 2: Busy Professor}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.3}{Real Life Problem}{section.1.1}% 11
+\BOOKMARK [1][-]{section.1.2}{Objectives}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.3}{Structure of Thesis}{chapter.1}% 13
+\BOOKMARK [0][-]{chapter.2}{State of Art}{}% 14
+\BOOKMARK [1][-]{section.2.1}{Human Computer Interaction}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.1.1}{HCI Goals}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.2}{Adaptive HCI}{section.2.1}% 17
+\BOOKMARK [1][-]{section.2.2}{Interaction Design}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{Interactive Design Process}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{Goals and Principles}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.3}{Usability Heuristics}{section.2.2}% 21
+\BOOKMARK [1][-]{section.2.3}{Interactive Mobile HCI}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.4}{Benchmark Analysis}{chapter.2}% 23
+\BOOKMARK [0][-]{chapter.3}{Analysis of Smart Cafeteria}{}% 24
+\BOOKMARK [1][-]{section.3.1}{Requirements and Data Gathering}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Stakeholders}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.2}{Initial Functional Requirements}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.3}{Non Functional Requirements}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.4}{Studying Cafeteria's Food Menu and Documents}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.5}{Focus Group}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.6}{Questionnaires}{section.3.1}% 31
+\BOOKMARK [1][-]{section.3.2}{Data Analysis}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.2.1}{Use Case Diagram}{section.3.2}% 33
+\BOOKMARK [3][-]{subsubsection.3.2.1.1}{Use case of System users}{subsection.3.2.1}% 34
+\BOOKMARK [3][-]{subsubsection.3.2.1.2}{Use case of System Administrator}{subsection.3.2.1}% 35
+\BOOKMARK [3][-]{subsubsection.3.2.1.3}{Use case of System Application}{subsection.3.2.1}% 36
+\BOOKMARK [3][-]{subsubsection.3.2.1.4}{Use case of POS terminal}{subsection.3.2.1}% 37
+\BOOKMARK [2][-]{subsection.3.2.2}{Class Diagram}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.3}{Activity Diagram}{section.3.2}% 39
+\BOOKMARK [3][-]{subsubsection.3.2.3.1}{System User}{subsection.3.2.3}% 40
+\BOOKMARK [3][-]{subsubsection.3.2.3.2}{System Administrator}{subsection.3.2.3}% 41
+\BOOKMARK [3][-]{subsubsection.3.2.3.3}{System}{subsection.3.2.3}% 42
+\BOOKMARK [3][-]{subsubsection.3.2.3.4}{Point of Sale}{subsection.3.2.3}% 43
+\BOOKMARK [0][-]{chapter.4}{Smart Cafeteria Design}{}% 44
+\BOOKMARK [1][-]{section.4.1}{Conceptual Architecture And Design}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.2}{Service Oriented Architecture\(SOA\)}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.3}{Prototype of Smart Cafeteria}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.3.1}{Desktop Prototype}{section.4.3}% 48
+\BOOKMARK [3][-]{subsubsection.4.3.1.1}{Index}{subsection.4.3.1}% 49
+\BOOKMARK [3][-]{subsubsection.4.3.1.2}{Dashboard}{subsection.4.3.1}% 50
+\BOOKMARK [2][-]{subsection.4.3.2}{Mobile Prototype}{section.4.3}% 51
+\BOOKMARK [3][-]{subsubsection.4.3.2.1}{Index}{subsection.4.3.2}% 52
+\BOOKMARK [3][-]{subsubsection.4.3.2.2}{User Registration}{subsection.4.3.2}% 53
+\BOOKMARK [3][-]{subsubsection.4.3.2.3}{User Login and Password Recovery}{subsection.4.3.2}% 54
+\BOOKMARK [3][-]{subsubsection.4.3.2.4}{Generate dieting report}{subsection.4.3.2}% 55
+\BOOKMARK [3][-]{subsubsection.4.3.2.5}{Collaborative and Sharing Activities}{subsection.4.3.2}% 56
+\BOOKMARK [1][-]{section.4.4}{Key Features of Smart Cafeteria}{chapter.4}% 57
+\BOOKMARK [2][-]{subsection.4.4.1}{Online Cafeteria services}{section.4.4}% 58
+\BOOKMARK [2][-]{subsection.4.4.2}{Adaptive services}{section.4.4}% 59
+\BOOKMARK [2][-]{subsection.4.4.3}{Social collaboration services}{section.4.4}% 60
+\BOOKMARK [2][-]{subsection.4.4.4}{Mobile Interaction}{section.4.4}% 61
+\BOOKMARK [0][-]{chapter.5}{Usability Evaluation of Smart Cafeteria}{}% 62
+\BOOKMARK [1][-]{section.5.1}{Evaluation Methodology}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.2}{Evaluation Result}{chapter.5}% 64
+\BOOKMARK [2][-]{subsection.5.2.1}{User Observation}{section.5.2}% 65
+\BOOKMARK [2][-]{subsection.5.2.2}{Desktop Prototype Evaluation}{section.5.2}% 66
+\BOOKMARK [3][-]{subsubsection.5.2.2.1}{Usefulness}{subsection.5.2.2}% 67
+\BOOKMARK [3][-]{subsubsection.5.2.2.2}{Ease of Use}{subsection.5.2.2}% 68
+\BOOKMARK [3][-]{subsubsection.5.2.2.3}{Ease of Learning}{subsection.5.2.2}% 69
+\BOOKMARK [3][-]{subsubsection.5.2.2.4}{Satisfaction}{subsection.5.2.2}% 70
+\BOOKMARK [3][-]{subsubsection.5.2.2.5}{Evaluation Statistics}{subsection.5.2.2}% 71
+\BOOKMARK [2][-]{subsection.5.2.3}{Mobile Prototype Evaluation}{section.5.2}% 72
+\BOOKMARK [3][-]{subsubsection.5.2.3.1}{Usefulness}{subsection.5.2.3}% 73
+\BOOKMARK [3][-]{subsubsection.5.2.3.2}{Ease of Use}{subsection.5.2.3}% 74
+\BOOKMARK [3][-]{subsubsection.5.2.3.3}{Ease of Learning}{subsection.5.2.3}% 75
+\BOOKMARK [3][-]{subsubsection.5.2.3.4}{Satisfaction}{subsection.5.2.3}% 76
+\BOOKMARK [3][-]{subsubsection.5.2.3.5}{Evaluation Statistics}{subsection.5.2.3}% 77
+\BOOKMARK [1][-]{section.5.3}{Suggestions for Improvement}{chapter.5}% 78
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 79
+\BOOKMARK [1][-]{section.6.1}{Further Work}{chapter.6}% 80
+\BOOKMARK [0][-]{section*.65}{References}{}% 81
+\BOOKMARK [0][-]{Appendix.1.A}{Appendix Data and Requirements Gathering}{}% 82
+\BOOKMARK [1][-]{section.1.A.1}{Studying Documents and Research}{Appendix.1.A}% 83
+\BOOKMARK [1][-]{section.1.A.2}{Focus Group and Workshop}{Appendix.1.A}% 84
+\BOOKMARK [1][-]{section.1.A.3}{Data Gathering Questionnaire \046 Result}{Appendix.1.A}% 85
+\BOOKMARK [0][-]{Appendix.1.B}{Appendix Usability Evaluation}{}% 86
+\BOOKMARK [1][-]{section.1.B.1}{Usability Evaluation Questionnaire}{Appendix.1.B}% 87
+\BOOKMARK [1][-]{section.1.B.2}{Result of Desktop Prototype Evaluation}{Appendix.1.B}% 88
+\BOOKMARK [1][-]{section.1.B.3}{Result of Mobile Prototype Evaluation}{Appendix.1.B}% 89

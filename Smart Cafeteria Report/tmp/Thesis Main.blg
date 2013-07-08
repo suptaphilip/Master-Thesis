@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis Main.aux
+The style file: IEEEtranN.bst
+Database file #1: SmartCafeteriabib.bib
+-- IEEEtranN.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Natbib version - not for normal IEEE work.
+Warning--empty journal in Karthika2012
+Warning--missing institution in Tekinerdogan
+Warning--missing institution in Lieberherr1995
+Warning--empty author in UML:2007:Specification
+Warning--empty journal in UML:2007:Specification
+Warning--empty author and editor in MicrosoftCorporation2003
+Warning--empty journal in Sahin2008
+
+Done.
+(There were 7 warnings)

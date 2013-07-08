@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="579" measuredH="553" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="297" y="43" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="321" y="124" w="234" h="348" measuredW="480" measuredH="800" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/menu.png</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

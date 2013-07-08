@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Wed Jul 03 20:13:39 CEST 2013
+markTmpDer=true
+builderNum=8
+outputDir=pdf/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=Thesis Main.tex
+outputFile=Master Thesis-Smart Cafeteria.pdf
+langSpell=en
+markDer=true
+srcDir=src/

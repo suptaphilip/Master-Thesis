@@ -1,0 +1,163 @@
+\documentclass[a4paper,12pt]{report}
+% Alternative Options:
+%	Paper Size: a4paper / a5paper / b5paper / letterpaper / legalpaper / executivepaper
+% Duplex: oneside / twoside
+% Base Font Size: 10pt / 11pt / 12pt
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=black,
+    linkcolor=blue,
+    urlcolor=blue,
+    bookmarksopen = false,
+    pdfstartview = {XYZ null null 1.00}
+ 	%pdfpagemode=None
+}
+\usepackage{enumerate}
+
+%for showing sub sub section number and table of content upto level 3
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage{lscape}
+
+\hypersetup{linktocpage}
+
+%% Language %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[USenglish]{babel} %francais, polish, spanish, ...
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage{amsmath}
+\usepackage{lmodern} %Type1-font for non-english texts and characters
+%\usepackage{hyperref}
+%\usepackage[hypertex,backref=false,bookmarks=true]{hyperref}
+%% Packages for Graphics & Figures %%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx} %%For loading graphic files
+%\usepackage{subfig} %%Subfigures inside a figure
+%\usepackage{tikz} %%Generate vector graphics from within LaTeX
+\usepackage{caption}
+\usepackage{subcaption}
+%% Please note:
+%% Images can be included using \includegraphics{filename}
+%% resp. using the dialog in the Insert menu.
+%% 
+%% The mode "LaTeX => PDF" allows the following formats:
+%%   .jpg  .png  .pdf  .mps
+%% 
+%% The modes "LaTeX => DVI", "LaTeX => PS" und "LaTeX => PS => PDF"
+%% allow the following formats:
+%%   .eps  .ps  .bmp  .pict  .pntg
+
+
+%% Math Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{amsmath}
+%\usepackage{amsthm}
+%\usepackage{amsfonts}
+
+%\usepackage[pdftex]{graphicx}
+%% Line Spacing %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{setspace}
+%\singlespacing        %% 1-spacing (default)
+%\onehalfspacing       %% 1,5-spacing
+%\doublespacing        %% 2-spacing
+
+
+%% Other Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{a4wide} %%Smaller margins = more text per page.
+%\usepackage{fancyhdr} %%Fancy headings
+%\usepackage{longtable} %%For tables, that exceed one page
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Remarks
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+\usepackage[titletoc]{appendix} % use the appendices environment for Appendix
+\usepackage[numbers]{natbib}
+%\setcitestyle{numbers}
+%\citestyle{plainnat}
+\usepackage{tabularx}
+\usepackage{cleveref}
+\crefname{subsection}{subsection}{subsections}
+%\usepackage{pdfpages}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%Title
+\input{Title.tex}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+%Abstract
+\input{Abstract.tex}
+
+%Acknowledgement
+
+\input{Acknowledgement.tex}
+
+%Dedication
+\input{Dedication.tex}
+
+%Table of Content
+\phantomsection
+\addcontentsline{toc}{chapter}{Table of Contents}
+\renewcommand{\contentsname}{Table of Contents}
+\tableofcontents 
+
+%List of Fiqure
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+
+%List of Table
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+
+\input{Introduction.tex}
+
+\input{Stateofart.tex}
+
+
+
+%\enlargethispage*{1000pt}
+
+\input{Analysis.tex}
+
+%\enlargethispage*{1000pt}
+
+\input{Design.tex}
+
+
+\input{Evaluation.tex}
+
+
+\input{Conclusion.tex}
+
+%for bib file
+\bibliographystyle{IEEEtranN}% ieeetr,plain,acm,unsrtnat
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+%\addcontentsline{toc}{chapter}{Bibliography}
+\bibliography{SmartCafeteriabib}% .bib tex file
+
+%for normal 99 references stype
+%\input{bibliography.tex}
+
+\input{Appendix.tex}
+
+
+\end{document}
+
