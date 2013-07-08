@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.70.2-2012060719 (MiKTeX 2.9 64-bit)  (format=lualatex 2013.3.13)  8 JUL 2013 17:15
+This is LuaTeX, Version beta-0.70.2-2012060719 (MiKTeX 2.9 64-bit)  (format=lualatex 2013.3.13)  8 JUL 2013 19:22
 **"Thesis Main.tex"
 
 ("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
@@ -495,7 +495,7 @@ name{page.1}) has been already used, duplicate ignored
                    \relax 
 l.1 \begin{abstract}
                      [1]
-Underfull \hbox (badness 10000) in paragraph at lines 8--30
+Underfull \hbox (badness 10000) in paragraph at lines 8--29
 
  []
 
@@ -1793,7 +1793,7 @@ e1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17
 les/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsy10.pfb>
-Output written on Thesis Main.pdf (103 pages, 5435920 bytes).
+Output written on Thesis Main.pdf (103 pages, 5435959 bytes).
 
 PDF statistics: 1882 PDF objects out of 2073 (max. 8388607)
  401 named destinations out of 1000 (max. 131072)
