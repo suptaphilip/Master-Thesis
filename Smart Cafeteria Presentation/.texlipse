@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Jul 04 13:29:30 CEST 2013
+markTmpDer=true
+builderNum=2
+outputDir=pdf/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=Smart Cafeteria Presentation.tex
+outputFile=Smart Cafeteria.pdf
+langSpell=en
+markDer=true
+srcDir=src/
