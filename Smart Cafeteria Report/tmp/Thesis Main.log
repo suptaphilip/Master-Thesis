@@ -1,6 +1,8 @@
-This is LuaTeX, Version beta-0.70.2-2012060719 (MiKTeX 2.9 64-bit)  (format=lualatex 2013.3.13)  8 JUL 2013 15:13
+This is LuaTeX, Version beta-0.70.2-2012060719 (MiKTeX 2.9 64-bit)  (format=lualatex 2013.3.13)  8 JUL 2013 17:15
 **"Thesis Main.tex"
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.tex"
+
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.tex"
 LaTeX2e <2011/06/27>
 LuaTeX adaptation of babel <v3.8m-luatex-1.5> and hyphenation patterns for engl
 ish, loaded.
@@ -165,7 +167,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gread@gobject=\count98
 )))
-Package hyperref Info: Option `linktocpage' set `true' on input line 25.
+Package hyperref Info: Option `linktocpage' set `true' on input line 27.
 
 ("C:/Program Files/MiKTeX 2.9/tex/generic/babel/babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
@@ -370,24 +372,24 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2163.
 LaTeX Info: Redefining \labelcref on input line 2163.
 LaTeX Info: Redefining \labelcpageref on input line 2163.
 )
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 87.
-
-("C:/Program Files/MiKTeX 2.9/tex/latex/lm/t1lmr.fd"
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 89.
+ ("C:/Program Files/MiKTeX 2.9/tex/latex/lm/t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box28
@@ -400,7 +402,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 87.
+Package hyperref Info: Link coloring ON on input line 89.
 
 ("C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -410,12 +412,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 87.
-LaTeX Info: Redefining \pageref on input line 87.
-LaTeX Info: Redefining \nameref on input line 87.
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
 
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.out")
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.out")
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.out")
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.out")
 \@outlinefile=\write3
 
 (C:/Users/Richard/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
@@ -434,10 +438,12 @@ LaTeX Info: Redefining \nameref on input line 87.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Title.tex"
-<Logo/ulogo.png, id=359, 730.73pt x 368.37625pt>
+
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Title.tex" <Logo/ulogo.png, id=359, 730.73pt x 368.37625pt>
 File: Logo/ulogo.png Graphic file (type png)
- <use Logo/ulogo.png>
+
+<use Logo/ulogo.png>
 Package pdftex.def Info: Logo/ulogo.png used on input line 13.
 (pdftex.def)             Requested size: 272.99727pt x 144.5374pt.
 
@@ -480,10 +486,11 @@ Overfull \hbox (20.23589pt too wide) in paragraph at lines 31--48
 [1
 
 {C:/Users/Richard/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dropbo
-x/Master Thesis Final/Smart Cafeteria Report/src/Logo/ulogo.png>])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Abstract.tex"LuaTeX
- warning (ext4): destination with the same identifier (name{page.1}) has been a
-lready used, duplicate ignored
+x/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/Logo/u
+logo.png>])
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Abstract.tex"LuaTeX warning (ext4): destination with the same identifier (
+name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \begin{abstract}
@@ -493,20 +500,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--30
  []
 
 [1])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Acknowledgement.tex
-" [2
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Acknowledgement.tex" [2
 
 ])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Dedication.tex"
-[3
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Dedication.tex" [3
 
-]) ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.toc"
- [4
+])
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.toc" [4
 
 ] [5])
 \tf@toc=\write4
  [6]
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.lof"
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.lof"
 Overfull \hbox (9.026pt too wide) in paragraph at lines 10--10
  \T1/lmr/m/n/12 tem Or-der Dish(mid-dle). Restau-rant Sys-tem check-out Dish(ri
 ght). [][]  
@@ -518,14 +527,15 @@ ght). [][]
 ])
 \tf@lof=\write5
  [8]
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.lot")
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.lot")
 \tf@lot=\write6
+ [9
 
-[9
 
-
-] ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Introduction.tex"
-
+]
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Introduction.tex"
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 12.
@@ -541,8 +551,8 @@ l.38
       [1
 
 ] [2] [3] [4])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Stateofart.tex"
-[5]
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Stateofart.tex" [5]
 Chapter 2.
 [6
 
@@ -579,10 +589,11 @@ Overfull \hbox (7.48293pt too wide) in paragraph at lines 156--157
  [][][] 
  []
 
-[9 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/AdaptiveAppli
-cationArchitecture/adaptive_application_architecture.png>] [10 <D:/Dropbox/Mast
-er Thesis Final/Smart Cafeteria Report/src/ch2/DisciplinesInvolvedID.png>]
-[11] <ch2/SimpleLifeCycleID.png, id=755, 1172.38pt x 849.1725pt>
+[9 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Repo
+rt/src/ch2/AdaptiveApplicationArchitecture/adaptive_application_architecture.pn
+g>] [10 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria
+ Report/src/ch2/DisciplinesInvolvedID.png>] [11]
+<ch2/SimpleLifeCycleID.png, id=755, 1172.38pt x 849.1725pt>
 File: ch2/SimpleLifeCycleID.png Graphic file (type png)
 
 <use ch2/SimpleLifeCycleID.png>
@@ -593,8 +604,8 @@ Overfull \hbox (7.47691pt too wide) in paragraph at lines 222--223
  [][][] 
  []
 
-[12 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/SimpleLifeCy
-cleID.png>]
+[12 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch2/SimpleLifeCycleID.png>]
 Overfull \hbox (0.80995pt too wide) in paragraph at lines 257--260
 [][]\T1/lmr/bx/n/12 Map-ping and Match-ing: \T1/lmr/m/n/12 Con-trol of in-for-m
 a-tion and feed-back should
@@ -662,8 +673,8 @@ Overfull \hbox (10.73535pt too wide) in paragraph at lines 396--397
  [][][] 
  []
 
-[16 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/InteractiveM
-obileApplication/InteractiveMobileApplication.png>]
+[16 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch2/InteractiveMobileApplication/InteractiveMobileApplication.png>]
 <ch2/RelatedApps/MyFoodCircle/1.jpg, id=821, 308.15125pt x 513.92pt>
 File: ch2/RelatedApps/MyFoodCircle/1.jpg Graphic file (type jpg)
 
@@ -746,19 +757,23 @@ Overfull \hbox (14.65196pt too wide) in paragraph at lines 466--467
  [][][] 
  []
 
-) ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Analysis.tex"
-[17 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/RelatedApps/
-MyFitnessPal/1.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/
-ch2/RelatedApps/MyFitnessPal/2.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafet
-eria Report/src/ch2/RelatedApps/MyFitnessPal/3.jpg>] [18 <D:/Dropbox/Master The
-sis Final/Smart Cafeteria Report/src/ch2/RelatedApps/MyFoodCircle/1.jpg> <D:/Dr
-opbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/RelatedApps/MyFoodCirc
-le/2.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/Relate
-dApps/MyFoodCircle/3.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Repor
-t/src/ch2/RelatedApps/RestaurantSystem/1.png (PNG copy)> <D:/Dropbox/Master The
-sis Final/Smart Cafeteria Report/src/ch2/RelatedApps/RestaurantSystem/2.png (PN
-G copy)> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch2/Related
-Apps/RestaurantSystem/3.png (PNG copy)>]
+)
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Analysis.tex" [17 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/
+Smart Cafeteria Report/src/ch2/RelatedApps/MyFitnessPal/1.jpg> <D:/Dropbox/Mast
+er Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch2/RelatedA
+pps/MyFitnessPal/2.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Final git
+/Smart Cafeteria Report/src/ch2/RelatedApps/MyFitnessPal/3.jpg>] [18 <D:/Dropbo
+x/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch2/Re
+latedApps/MyFoodCircle/1.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Fin
+al git/Smart Cafeteria Report/src/ch2/RelatedApps/MyFoodCircle/2.jpg> <D:/Dropb
+ox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch2/R
+elatedApps/MyFoodCircle/3.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Fi
+nal git/Smart Cafeteria Report/src/ch2/RelatedApps/RestaurantSystem/1.png (PNG 
+copy)> <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria 
+Report/src/ch2/RelatedApps/RestaurantSystem/2.png (PNG copy)> <D:/Dropbox/Maste
+r Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch2/RelatedAp
+ps/RestaurantSystem/3.png (PNG copy)>]
 Chapter 3.
 [19
 
@@ -780,8 +795,8 @@ Overfull \hbox (7.49153pt too wide) in paragraph at lines 356--357
  [][][] 
  []
 
-[26 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/AppendixMenu
-/differentmenu.png>]
+[26 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/AppendixMenu/differentmenu.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 370--375
 
  []
@@ -862,8 +877,8 @@ Overfull \hbox (7.48499pt too wide) in paragraph at lines 453--454
  [][][] 
  []
 
-[29 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/FocusGroup/Q
-RBARCODE.png>]
+[29 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/FocusGroup/QRBARCODE.png>]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 486--514
  [][][] 
  []
@@ -883,161 +898,169 @@ Overfull \hbox (0.7932pt too wide) in paragraph at lines 580--581
 
 LaTeX Warning: Float too large for page by 37.24484pt on input line 583.
 
-[33 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/UseCase/Syst
-emUser.png>]
-<ch3/UseCase/SystemAdministrator.png, id=1019, 1358.07375pt x 803.0pt>
+[33 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/UseCase/SystemUser.png>] [34
+
+
+]
+<ch3/UseCase/SystemAdministrator.png, id=1023, 1358.07375pt x 803.0pt>
 File: ch3/UseCase/SystemAdministrator.png Graphic file (type png)
 
 <use ch3/UseCase/SystemAdministrator.png>
 Package pdftex.def Info: ch3/UseCase/SystemAdministrator.png used on input line
- 601.
-(pdftex.def)             Requested size: 397.48499pt x 235.02052pt.
+ 602.
+(pdftex.def)             Requested size: 650.43pt x 384.57793pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 601--602
+Overfull \hbox (58.43pt too wide) in paragraph at lines 602--603
  [][][] 
  []
 
-<ch3/UseCase/SystemApplication.png, id=1020, 1147.28625pt x 750.805pt>
+
+LaTeX Warning: Float too large for page by 19.07791pt on input line 605.
+
+[35 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/UseCase/SystemAdministrator.png>]
+<ch3/UseCase/SystemApplication.png, id=1029, 1147.28625pt x 750.805pt>
 File: ch3/UseCase/SystemApplication.png Graphic file (type png)
 
 <use ch3/UseCase/SystemApplication.png>
 Package pdftex.def Info: ch3/UseCase/SystemApplication.png used on input line 6
-17.
+19.
 (pdftex.def)             Requested size: 397.48499pt x 260.11635pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 617--618
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 619--620
  [][][] 
  []
 
-<ch3/UseCase/PosTerminal.png, id=1021, 1147.28625pt x 565.11125pt>
+<ch3/UseCase/PosTerminal.png, id=1030, 1147.28625pt x 565.11125pt>
 File: ch3/UseCase/PosTerminal.png Graphic file (type png)
 
 <use ch3/UseCase/PosTerminal.png>
-Package pdftex.def Info: ch3/UseCase/PosTerminal.png used on input line 630.
+Package pdftex.def Info: ch3/UseCase/PosTerminal.png used on input line 632.
 (pdftex.def)             Requested size: 397.48499pt x 195.78276pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 630--631
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 632--633
  [][][] 
  []
 
-[34
+[36
 
 
- <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/UseCase/SystemA
-dministrator.png>] [35 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/s
-rc/ch3/UseCase/SystemApplication.png>] [36 <D:/Dropbox/Master Thesis Final/Smar
-t Cafeteria Report/src/ch3/UseCase/PosTerminal.png>]
-<ch3/ClassDiagram/Class.jpg, id=1041, 1210.5225pt x 708.6475pt>
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/ch3/UseCase/SystemApplication.png>] [37 <D:/Dropbox/Master Thesis Final/Ma
+ster Thesis Final git/Smart Cafeteria Report/src/ch3/UseCase/PosTerminal.png>] 
+<ch3/ClassDiagram/Class.jpg, id=1045, 1210.5225pt x 708.6475pt>
 File: ch3/ClassDiagram/Class.jpg Graphic file (type jpg)
 
 <use ch3/ClassDiagram/Class.jpg>
-Package pdftex.def Info: ch3/ClassDiagram/Class.jpg used on input line 650.
+Package pdftex.def Info: ch3/ClassDiagram/Class.jpg used on input line 652.
 (pdftex.def)             Requested size: 650.43pt x 380.77167pt.
 
-Overfull \hbox (58.43pt too wide) in paragraph at lines 650--651
+Overfull \hbox (58.43pt too wide) in paragraph at lines 652--653
  [][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 15.27165pt on input line 653.
+LaTeX Warning: Float too large for page by 15.27165pt on input line 655.
 
-[37 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/ClassDiagram
-/Class.jpg>]
-Overfull \hbox (5.71529pt too wide) in paragraph at lines 681--686
+[38 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/ClassDiagram/Class.jpg>]
+Overfull \hbox (5.71529pt too wide) in paragraph at lines 683--688
 \T1/lmr/m/n/12 dated at-tributes. This class con-tains AddFood-Item, Ed-it-Food
 -Item and Delete-
  []
 
 
-Overfull \hbox (22.77118pt too wide) in paragraph at lines 701--704
+Overfull \hbox (22.77118pt too wide) in paragraph at lines 703--706
 \T1/lmr/m/n/12 Food-MenuID, cre-taed and up-dated prop-er-ties and SaveCom-ment
  and DeleteCom-
  []
 
-[38
+[39
 
 
 ]
-Overfull \hbox (12.22673pt too wide) in paragraph at lines 710--713
+Overfull \hbox (12.22673pt too wide) in paragraph at lines 712--715
 [][]\T1/lmr/bx/n/12 Sub-scrip-tion: \T1/lmr/m/n/12 The class Sub-scrip-tion con
 -tains ID, Sub-scrip-tionID, UserID,
  []
 
 
-Overfull \hbox (2.91235pt too wide) in paragraph at lines 714--718
+Overfull \hbox (2.91235pt too wide) in paragraph at lines 716--720
 [][]\T1/lmr/bx/n/12 Ac-tiv-ity: \T1/lmr/m/n/12 The class Ac-tiv-ity has Ac-tiv-
 i-tyID, Ac-tiv-i-ty-De-scrip-tion, UserID,
  []
 
 
-Overfull \hbox (8.38487pt too wide) in paragraph at lines 720--725
+Overfull \hbox (8.38487pt too wide) in paragraph at lines 722--727
 [][]\T1/lmr/bx/n/12 Cafe-te-riaBranch: \T1/lmr/m/n/12 The class Cafe-te-riaBran
 ch con-tains BranchID, Branch-
  []
 
 
-Overfull \hbox (30.8013pt too wide) in paragraph at lines 720--725
+Overfull \hbox (30.8013pt too wide) in paragraph at lines 722--727
 \T1/lmr/m/n/12 class Cafe-te-riabranch is as-so-ci-ated with In-voice, Ac-tiv-i
 ty and Cafe-te-riaBranchShed-
  []
 
-[39] <ch3/ActivityDiagram/SystemUser.jpg, id=1063, 1240.635pt x 638.385pt>
+[40] [41]
+<ch3/ActivityDiagram/SystemUser.jpg, id=1072, 1240.635pt x 638.385pt>
 File: ch3/ActivityDiagram/SystemUser.jpg Graphic file (type jpg)
 
 <use ch3/ActivityDiagram/SystemUser.jpg>
 Package pdftex.def Info: ch3/ActivityDiagram/SystemUser.jpg used on input line 
-762.
-(pdftex.def)             Requested size: 433.60405pt x 433.61874pt.
-
-Overfull \hbox (43.60405pt too wide) in paragraph at lines 762--763
- [][][] 
- []
-
-[40 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/ActivityDiag
-ram/SystemUser.jpg>]
-<ch3/ActivityDiagram/SysAdmin.jpg, id=1070, 809.0225pt x 608.2725pt>
+765.
+(pdftex.def)             Requested size: 578.15767pt x 361.35057pt.
+ [42 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Re
+port/src/ch3/ActivityDiagram/SystemUser.jpg>] <ch3/ActivityDiagram/SysAdmin.jpg
+, id=1078, 809.0225pt x 608.2725pt>
 File: ch3/ActivityDiagram/SysAdmin.jpg Graphic file (type jpg)
 
 <use ch3/ActivityDiagram/SysAdmin.jpg>
-Package pdftex.def Info: ch3/ActivityDiagram/SysAdmin.jpg used on input line 77
-9.
+Package pdftex.def Info: ch3/ActivityDiagram/SysAdmin.jpg used on input line 78
+3.
 (pdftex.def)             Requested size: 397.48499pt x 298.85434pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 779--780
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 783--784
  [][][] 
  []
 
-<ch3/ActivityDiagram/SysApp.jpg, id=1072, 745.78625pt x 422.57875pt>
+<ch3/ActivityDiagram/SysApp.jpg, id=1080, 745.78625pt x 422.57875pt>
 File: ch3/ActivityDiagram/SysApp.jpg Graphic file (type jpg)
 
 <use ch3/ActivityDiagram/SysApp.jpg>
-Package pdftex.def Info: ch3/ActivityDiagram/SysApp.jpg used on input line 792.
+Package pdftex.def Info: ch3/ActivityDiagram/SysApp.jpg used on input line 796.
 
 (pdftex.def)             Requested size: 397.48499pt x 225.22302pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 792--793
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 796--797
  [][][] 
  []
 
-[41 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/ActivityDiag
-ram/SysAdmin.jpg>]
-<ch3/ActivityDiagram/POS.jpg, id=1079, 618.31pt x 367.3725pt>
+[43
+
+
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/ch3/ActivityDiagram/SysAdmin.jpg>]
+<ch3/ActivityDiagram/POS.jpg, id=1087, 618.31pt x 367.3725pt>
 File: ch3/ActivityDiagram/POS.jpg Graphic file (type jpg)
 
 <use ch3/ActivityDiagram/POS.jpg>
-Package pdftex.def Info: ch3/ActivityDiagram/POS.jpg used on input line 805.
+Package pdftex.def Info: ch3/ActivityDiagram/POS.jpg used on input line 809.
 (pdftex.def)             Requested size: 397.48499pt x 236.17705pt.
 
-Overfull \hbox (7.48499pt too wide) in paragraph at lines 805--806
+Overfull \hbox (7.48499pt too wide) in paragraph at lines 809--810
  [][][] 
  []
 
-) ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Design.tex"
-[42 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/ActivityDiag
-ram/SysApp.jpg>] [43 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src
-/ch3/ActivityDiagram/POS.jpg>]
+)
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Design.tex" [44 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Sm
+art Cafeteria Report/src/ch3/ActivityDiagram/SysApp.jpg>] [45 <D:/Dropbox/Maste
+r Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch3/ActivityD
+iagram/POS.jpg>]
 Chapter 4.
-<ch4/SOA/ConceptualArchitecture.png, id=1098, 1340.00626pt x 488.82625pt>
+<ch4/SOA/ConceptualArchitecture.png, id=1107, 1340.00626pt x 488.82625pt>
 File: ch4/SOA/ConceptualArchitecture.png Graphic file (type png)
 
 <use ch4/SOA/ConceptualArchitecture.png>
@@ -1049,7 +1072,7 @@ Overfull \hbox (7.48499pt too wide) in paragraph at lines 35--36
  [][][] 
  []
 
-<ch4/SOA/ConceptualArchitecture_new.png, id=1099, 1202.4925pt x 1099.10625pt>
+<ch4/SOA/ConceptualArchitecture_new.png, id=1108, 1202.4925pt x 1099.10625pt>
 File: ch4/SOA/ConceptualArchitecture_new.png Graphic file (type png)
 
 <use ch4/SOA/ConceptualArchitecture_new.png>
@@ -1061,21 +1084,22 @@ Overfull \hbox (7.4843pt too wide) in paragraph at lines 42--43
  [][][] 
  []
 
-[44
+[46
 
 ]
 
-LaTeX Warning: Text page 45 contains only floats.
+LaTeX Warning: Text page 47 contains only floats.
 
-[45 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/SOA/Conceptu
-alArchitecture.png> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/
-ch4/SOA/ConceptualArchitecture_new.png>]
+[47 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/SOA/ConceptualArchitecture.png> <D:/Dropbox/Master Thesis Final/Mas
+ter Thesis Final git/Smart Cafeteria Report/src/ch4/SOA/ConceptualArchitecture_
+new.png>]
 Overfull \hbox (12.63936pt too wide) in paragraph at lines 85--90
 \T1/lmr/m/n/12 Ap-plets, Flash, Flex, Sil-verlight, iOS ap-pli-ca-tion, An-droi
 d Ap-pli-ca-tion, HTML5
  []
 
-<ch4/SOA/SOAArchitecture.png, id=1120, 1336.995pt x 454.69875pt>
+<ch4/SOA/SOAArchitecture.png, id=1128, 1336.995pt x 454.69875pt>
 File: ch4/SOA/SOAArchitecture.png Graphic file (type png)
 
 <use ch4/SOA/SOAArchitecture.png>
@@ -1086,9 +1110,9 @@ Overfull \hbox (7.48499pt too wide) in paragraph at lines 96--97
  [][][] 
  []
 
-[46] [47 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/SOA/SOA
-Architecture.png>]
-<ch4/Prototype/Laptop/index.jpg, id=1157, 1501.61pt x 866.23625pt>
+[48] [49 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteri
+a Report/src/ch4/SOA/SOAArchitecture.png>]
+<ch4/Prototype/Laptop/index.jpg, id=1165, 1501.61pt x 866.23625pt>
 File: ch4/Prototype/Laptop/index.jpg Graphic file (type jpg)
 
 <use ch4/Prototype/Laptop/index.jpg>
@@ -1100,7 +1124,7 @@ Overfull \hbox (22.1182pt too wide) in paragraph at lines 186--187
  [][][] 
  []
 
-[48] <ch4/Prototype/Laptop/dashboard.jpg, id=1171, 1496.59125pt x 863.225pt>
+[50] <ch4/Prototype/Laptop/dashboard.jpg, id=1180, 1496.59125pt x 863.225pt>
 File: ch4/Prototype/Laptop/dashboard.jpg Graphic file (type jpg)
 
 <use ch4/Prototype/Laptop/dashboard.jpg>
@@ -1113,7 +1137,7 @@ Overfull \hbox (22.11862pt too wide) in paragraph at lines 208--209
  []
 
 
-<ch4/Prototype/Laptop/foodmenusuggestion.jpg, id=1172, 1483.5425pt x 869.2475pt
+<ch4/Prototype/Laptop/foodmenusuggestion.jpg, id=1181, 1483.5425pt x 869.2475pt
 >
 File: ch4/Prototype/Laptop/foodmenusuggestion.jpg Graphic file (type jpg)
  <use ch4/Prototype/Laptop/foodmenusuggestion.jpg>
@@ -1125,15 +1149,16 @@ Overfull \hbox (22.11641pt too wide) in paragraph at lines 217--218
  [][][] 
  []
 
-[49 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/La
-ptop/index.jpg>]
+[51 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Laptop/index.jpg>]
 
-LaTeX Warning: Text page 50 contains only floats.
+LaTeX Warning: Text page 52 contains only floats.
 
-[50 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/La
-ptop/dashboard.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/
-ch4/Prototype/Laptop/foodmenusuggestion.jpg>]
-<ch4/Prototype/Mobile/mobile-installed.png, id=1187, 481.8pt x 803.0pt>
+[52 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Laptop/dashboard.jpg> <D:/Dropbox/Master Thesis Final/Mas
+ter Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/Laptop/foodmenusu
+ggestion.jpg>]
+<ch4/Prototype/Mobile/mobile-installed.png, id=1195, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/mobile-installed.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/mobile-installed.png>
@@ -1141,7 +1166,7 @@ Package pdftex.def Info: ch4/Prototype/Mobile/mobile-installed.png used on inpu
 t line 255.
 (pdftex.def)             Requested size: 175.49881pt x 292.4983pt.
 
-<ch4/Prototype/Mobile/mobile-index.png, id=1188, 481.8pt x 803.0pt>
+<ch4/Prototype/Mobile/mobile-index.png, id=1196, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/mobile-index.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/mobile-index.png>
@@ -1153,10 +1178,11 @@ Overfull \hbox (14.63321pt too wide) in paragraph at lines 255--256
  [][][] 
  []
 
-[51 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/Mo
-bile/mobile-installed.png> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Repo
-rt/src/ch4/Prototype/Mobile/mobile-index.png>]
-<ch4/Prototype/Mobile/mobile-registration-step1.png, id=1197, 481.8pt x 803.0pt
+[53 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Mobile/mobile-installed.png> <D:/Dropbox/Master Thesis Fi
+nal/Master Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/Mobile/mob
+ile-index.png>]
+<ch4/Prototype/Mobile/mobile-registration-step1.png, id=1205, 481.8pt x 803.0pt
 >
 File: ch4/Prototype/Mobile/mobile-registration-step1.png Graphic file (type png
 )
@@ -1165,7 +1191,7 @@ Package pdftex.def Info: ch4/Prototype/Mobile/mobile-registration-step1.png use
 d on input line 284.
 (pdftex.def)             Requested size: 175.49881pt x 292.4983pt.
 
-<ch4/Prototype/Mobile/mobile-registration-step2.png, id=1198, 481.8pt x 803.0pt
+<ch4/Prototype/Mobile/mobile-registration-step2.png, id=1206, 481.8pt x 803.0pt
 >
 File: ch4/Prototype/Mobile/mobile-registration-step2.png Graphic file (type png
 )
@@ -1178,7 +1204,7 @@ Overfull \hbox (14.63321pt too wide) in paragraph at lines 284--285
  [][][] 
  []
 
-<ch4/Prototype/Mobile/login.png, id=1201, 481.8pt x 803.0pt>
+<ch4/Prototype/Mobile/login.png, id=1209, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/login.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/login.png>
@@ -1186,7 +1212,7 @@ Package pdftex.def Info: ch4/Prototype/Mobile/login.png used on input line 315.
 
 (pdftex.def)             Requested size: 175.49881pt x 292.4983pt.
 
-<ch4/Prototype/Mobile/forgotpassword.png, id=1202, 481.8pt x 803.0pt>
+<ch4/Prototype/Mobile/forgotpassword.png, id=1210, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/forgotpassword.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/forgotpassword.png>
@@ -1201,10 +1227,11 @@ Overfull \hbox (14.63321pt too wide) in paragraph at lines 315--316
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[52 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/Mo
-bile/mobile-registration-step1.png> <D:/Dropbox/Master Thesis Final/Smart Cafet
-eria Report/src/ch4/Prototype/Mobile/mobile-registration-step2.png>]
-<ch4/Prototype/Mobile/report.png, id=1210, 481.8pt x 803.0pt>
+[54 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Mobile/mobile-registration-step1.png> <D:/Dropbox/Master 
+Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/M
+obile/mobile-registration-step2.png>]
+<ch4/Prototype/Mobile/report.png, id=1218, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/report.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/report.png>
@@ -1212,7 +1239,7 @@ Package pdftex.def Info: ch4/Prototype/Mobile/report.png used on input line 344
 .
 (pdftex.def)             Requested size: 175.49881pt x 292.4983pt.
 
-<ch4/Prototype/Mobile/suggestion.png, id=1211, 481.8pt x 803.0pt>
+<ch4/Prototype/Mobile/suggestion.png, id=1219, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/suggestion.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/suggestion.png>
@@ -1227,10 +1254,10 @@ Overfull \hbox (14.63321pt too wide) in paragraph at lines 344--345
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/Mo
-bile/login.png> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/
-Prototype/Mobile/forgotpassword.png>]
-<ch4/Prototype/Mobile/following.png, id=1219, 481.8pt x 803.0pt>
+[55 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Mobile/login.png> <D:/Dropbox/Master Thesis Final/Master 
+Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/Mobile/forgotpassword
+.png>] <ch4/Prototype/Mobile/following.png, id=1227, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/following.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/following.png>
@@ -1238,7 +1265,7 @@ Package pdftex.def Info: ch4/Prototype/Mobile/following.png used on input line
 374.
 (pdftex.def)             Requested size: 175.49881pt x 292.4983pt.
 
-<ch4/Prototype/Mobile/friendsactivity.png, id=1220, 481.8pt x 803.0pt>
+<ch4/Prototype/Mobile/friendsactivity.png, id=1228, 481.8pt x 803.0pt>
 File: ch4/Prototype/Mobile/friendsactivity.png Graphic file (type png)
 
 <use ch4/Prototype/Mobile/friendsactivity.png>
@@ -1253,18 +1280,20 @@ Overfull \hbox (14.63321pt too wide) in paragraph at lines 374--375
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4/Prototype/Mo
-bile/report.png> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch4
-/Prototype/Mobile/suggestion.png>] [55 <D:/Dropbox/Master Thesis Final/Smart Ca
-feteria Report/src/ch4/Prototype/Mobile/following.png> <D:/Dropbox/Master Thesi
-s Final/Smart Cafeteria Report/src/ch4/Prototype/Mobile/friendsactivity.png>])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Evaluation.tex"
-[56]
+[56 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch4/Prototype/Mobile/report.png> <D:/Dropbox/Master Thesis Final/Master
+ Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/Mobile/suggestion.pn
+g>] [57 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria
+ Report/src/ch4/Prototype/Mobile/following.png> <D:/Dropbox/Master Thesis Final
+/Master Thesis Final git/Smart Cafeteria Report/src/ch4/Prototype/Mobile/friend
+sactivity.png>])
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Evaluation.tex" [58]
 Chapter 5.
-[57
+[59
 
-] [58] [59]
-<ch5/Interview/EvaluationResult/PerformLogin.jpg, id=1272, 484.81125pt x 292.09
+] [60] [61]
+<ch5/Interview/EvaluationResult/PerformLogin.jpg, id=1280, 484.81125pt x 292.09
 125pt>
 File: ch5/Interview/EvaluationResult/PerformLogin.jpg Graphic file (type jpg)
  <use ch5/Interview/EvaluationResult/PerformLogin.jpg>
@@ -1272,7 +1301,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/PerformLogin.jpg used o
 n input line 145.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/SearchFoodMenu.jpg, id=1273, 484.81125pt x 292.
+<ch5/Interview/EvaluationResult/SearchFoodMenu.jpg, id=1281, 484.81125pt x 292.
 09125pt>
 File: ch5/Interview/EvaluationResult/SearchFoodMenu.jpg Graphic file (type jpg)
 
@@ -1281,7 +1310,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/SearchFoodMenu.jpg used
  on input line 149.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/CreateAFoodMenu.jpg, id=1275, 484.81125pt x 292
+<ch5/Interview/EvaluationResult/CreateAFoodMenu.jpg, id=1283, 484.81125pt x 292
 .09125pt>
 File: ch5/Interview/EvaluationResult/CreateAFoodMenu.jpg Graphic file (type jpg
 )
@@ -1290,7 +1319,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/CreateAFoodMenu.jpg use
 d on input line 166.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/SearchFriends.jpg, id=1276, 484.81125pt x 292.0
+<ch5/Interview/EvaluationResult/SearchFriends.jpg, id=1284, 484.81125pt x 292.0
 9125pt>
 File: ch5/Interview/EvaluationResult/SearchFriends.jpg Graphic file (type jpg)
  <use ch5/Interview/EvaluationResult/SearchFriends.jpg>
@@ -1298,7 +1327,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/SearchFriends.jpg used
 on input line 170.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/CheckYourDietReport.jpg, id=1279, 484.81125pt x
+<ch5/Interview/EvaluationResult/CheckYourDietReport.jpg, id=1287, 484.81125pt x
  292.09125pt>
 File: ch5/Interview/EvaluationResult/CheckYourDietReport.jpg Graphic file (type
  jpg)
@@ -1307,7 +1336,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/CheckYourDietReport.jpg
  used on input line 189.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/CheckFollowers.jpg, id=1280, 484.81125pt x 292.
+<ch5/Interview/EvaluationResult/CheckFollowers.jpg, id=1288, 484.81125pt x 292.
 09125pt>
 File: ch5/Interview/EvaluationResult/CheckFollowers.jpg Graphic file (type jpg)
 
@@ -1316,7 +1345,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/CheckFollowers.jpg used
  on input line 193.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/CheckTimeSchedule.jpg, id=1283, 484.81125pt x 2
+<ch5/Interview/EvaluationResult/CheckTimeSchedule.jpg, id=1291, 484.81125pt x 2
 92.09125pt>
 File: ch5/Interview/EvaluationResult/CheckTimeSchedule.jpg Graphic file (type j
 pg)
@@ -1325,7 +1354,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/CheckTimeSchedule.jpg u
 sed on input line 207.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/CheckwhoareFollowingyou.jpg, id=1284, 484.81125
+<ch5/Interview/EvaluationResult/CheckwhoareFollowingyou.jpg, id=1292, 484.81125
 pt x 292.09125pt>
 File: ch5/Interview/EvaluationResult/CheckwhoareFollowingyou.jpg Graphic file (
 type jpg)
@@ -1334,19 +1363,21 @@ type jpg)
 Package pdftex.def Info: ch5/Interview/EvaluationResult/CheckwhoareFollowingyou
 .jpg used on input line 211.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
- [60 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/E
-valuationResult/PerformLogin.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeter
-ia Report/src/ch5/Interview/EvaluationResult/SearchFoodMenu.jpg>] [61 <D:/Dropb
-ox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/EvaluationResul
-t/CreateAFoodMenu.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/s
-rc/ch5/Interview/EvaluationResult/SearchFriends.jpg> <D:/Dropbox/Master Thesis 
-Final/Smart Cafeteria Report/src/ch5/Interview/EvaluationResult/CheckYourDietRe
-port.jpg> <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interv
-iew/EvaluationResult/CheckFollowers.jpg> <D:/Dropbox/Master Thesis Final/Smart 
-Cafeteria Report/src/ch5/Interview/EvaluationResult/CheckTimeSchedule.jpg> <D:/
-Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/Evaluation
-Result/CheckwhoareFollowingyou.jpg>]
-<ch5/Interview/EvaluationResult/CheckFriend'sActivities.jpg, id=1296, 484.81125
+ [62 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Re
+port/src/ch5/Interview/EvaluationResult/PerformLogin.jpg> <D:/Dropbox/Master Th
+esis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch5/Interview/Eva
+luationResult/SearchFoodMenu.jpg>] [63 <D:/Dropbox/Master Thesis Final/Master T
+hesis Final git/Smart Cafeteria Report/src/ch5/Interview/EvaluationResult/Creat
+eAFoodMenu.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart C
+afeteria Report/src/ch5/Interview/EvaluationResult/SearchFriends.jpg> <D:/Dropb
+ox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch5/I
+nterview/EvaluationResult/CheckYourDietReport.jpg> <D:/Dropbox/Master Thesis Fi
+nal/Master Thesis Final git/Smart Cafeteria Report/src/ch5/Interview/Evaluation
+Result/CheckFollowers.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Final 
+git/Smart Cafeteria Report/src/ch5/Interview/EvaluationResult/CheckTimeSchedule
+.jpg> <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria R
+eport/src/ch5/Interview/EvaluationResult/CheckwhoareFollowingyou.jpg>]
+<ch5/Interview/EvaluationResult/CheckFriend'sActivities.jpg, id=1305, 484.81125
 pt x 292.09125pt>
 File: ch5/Interview/EvaluationResult/CheckFriend'sActivities.jpg Graphic file (
 type jpg)
@@ -1356,7 +1387,7 @@ Package pdftex.def Info: ch5/Interview/EvaluationResult/CheckFriend'sActivities
 .jpg used on input line 225.
 (pdftex.def)             Requested size: 175.49881pt x 105.73662pt.
 
-<ch5/Interview/EvaluationResult/ComparisonofTaskPerformance.jpg, id=1298, 991.7
+<ch5/Interview/EvaluationResult/ComparisonofTaskPerformance.jpg, id=1307, 991.7
 05pt x 578.16pt>
 File: ch5/Interview/EvaluationResult/ComparisonofTaskPerformance.jpg Graphic fi
 le (type jpg)
@@ -1370,10 +1401,10 @@ Overfull \hbox (7.47697pt too wide) in paragraph at lines 240--241
  [][][] 
  []
 
-[62 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/Ev
-aluationResult/CheckFriend'sActivities.jpg> <D:/Dropbox/Master Thesis Final/Sma
-rt Cafeteria Report/src/ch5/Interview/EvaluationResult/ComparisonofTaskPerforma
-nce.jpg>]
+[64 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch5/Interview/EvaluationResult/CheckFriend'sActivities.jpg> <D:/Dropbox
+/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch5/Int
+erview/EvaluationResult/ComparisonofTaskPerformance.jpg>]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 297--305
  [][][] 
  []
@@ -1383,18 +1414,18 @@ Overfull \hbox (3.2594pt too wide) in paragraph at lines 326--334
  [][][] 
  []
 
-[63]
+[65]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 353--359
  [][][] 
  []
 
-[64]
+[66]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 376--384
  [][][] 
  []
 
 
-<ch5/Interview/EvaluationResult/UsabilityEvaluationGraphDesktop.jpg, id=1334, 7
+<ch5/Interview/EvaluationResult/UsabilityEvaluationGraphDesktop.jpg, id=1342, 7
 54.82pt x 467.7475pt>
 File: ch5/Interview/EvaluationResult/UsabilityEvaluationGraphDesktop.jpg Graphi
 c file (type jpg)
@@ -1408,7 +1439,7 @@ Overfull \hbox (7.48428pt too wide) in paragraph at lines 411--412
  [][][] 
  []
 
-[65]
+[67]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 433--441
  [][][] 
  []
@@ -1423,14 +1454,14 @@ Overfull \hbox (3.2594pt too wide) in paragraph at lines 476--482
  [][][] 
  []
 
-[66 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/Ev
-aluationResult/UsabilityEvaluationGraphDesktop.jpg>]
+[68 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch5/Interview/EvaluationResult/UsabilityEvaluationGraphDesktop.jpg>]
 Overfull \hbox (3.2594pt too wide) in paragraph at lines 493--501
  [][][] 
  []
 
-[67]
-<ch5/Interview/EvaluationResult/UsabilityEvaluationGraphMobile.jpg, id=1362, 81
+[69]
+<ch5/Interview/EvaluationResult/UsabilityEvaluationGraphMobile.jpg, id=1371, 81
 9.06pt x 476.78125pt>
 File: ch5/Interview/EvaluationResult/UsabilityEvaluationGraphMobile.jpg Graphic
  file (type jpg)
@@ -1444,21 +1475,22 @@ Overfull \hbox (7.49358pt too wide) in paragraph at lines 522--523
  [][][] 
  []
 
-[68 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Interview/Ev
-aluationResult/UsabilityEvaluationGraphMobile.jpg>])
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Conclusion.tex"
-[69]
+[70 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch5/Interview/EvaluationResult/UsabilityEvaluationGraphMobile.jpg>])
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Conclusion.tex" [71]
 Chapter 6.
-[70
+[72
 
-]) [71]
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.bbl"
+]) [73]
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.bbl"
 Underfull \hbox (badness 1127) in paragraph at lines 39--43
 [][]\T1/lmr/m/n/12 ``The es-sen-tials of a healthy diet,'' [][]$http : / / www 
 . studenthealth . gov .
  []
 
-[72
+[74
 
 
 ]
@@ -1503,14 +1535,15 @@ Underfull \hbox (badness 2334) in paragraph at lines 95--98
 Septem-ber 21, 2012,
  []
 
-[73]
+[75]
 Underfull \hbox (badness 1924) in paragraph at lines 137--140
 \T1/lmr/m/n/12 operauni . tn . it / cms-[]01 . 00 / articolo . asp ? IDcms = 52
 7&s = 26&l = IT$[][], April
  []
 
-[74]) ("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Appendix.tex"
-[75]
+[76])
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Appendix.tex" [77]
 Appendix A.
 File: ch3/AppendixMenu/differentmenu.png Graphic file (type png)
 <use ch3/AppendixMenu/differentmenu.png>
@@ -1522,9 +1555,9 @@ Overfull \hbox (7.49153pt too wide) in paragraph at lines 7--8
  [][][] 
  []
 
-[76
+[78
 
-] <ch3/AppendixMenu/timeschedule.png, id=1450, 720.44156pt x 251.43938pt>
+] <ch3/AppendixMenu/timeschedule.png, id=1458, 720.44156pt x 251.43938pt>
 File: ch3/AppendixMenu/timeschedule.png Graphic file (type png)
 
 <use ch3/AppendixMenu/timeschedule.png>
@@ -1536,9 +1569,9 @@ Overfull \hbox (7.4753pt too wide) in paragraph at lines 13--14
  [][][] 
  []
 
-[77 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/AppendixMenu
-/timeschedule.png>]
-<ch3/AppendixMenu/Weeklylunchmenu.png, id=1455, 1015.54407pt x 509.65407pt>
+[79 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/AppendixMenu/timeschedule.png>]
+<ch3/AppendixMenu/Weeklylunchmenu.png, id=1463, 1015.54407pt x 509.65407pt>
 File: ch3/AppendixMenu/Weeklylunchmenu.png Graphic file (type png)
 
 <use ch3/AppendixMenu/Weeklylunchmenu.png>
@@ -1550,9 +1583,9 @@ Overfull \hbox (7.48622pt too wide) in paragraph at lines 19--20
  [][][] 
  []
 
-[78 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/AppendixMenu
-/Weeklylunchmenu.png>]
-<ch3/AppendixFocusGroup/FocusGroup.pdf, id=1460, 614.295pt x 794.97pt>
+[80 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/AppendixMenu/Weeklylunchmenu.png>]
+<ch3/AppendixFocusGroup/FocusGroup.pdf, id=1469, 614.295pt x 794.97pt>
 File: ch3/AppendixFocusGroup/FocusGroup.pdf Graphic file (type pdf)
 
 <use ch3/AppendixFocusGroup/FocusGroup.pdf>
@@ -1564,11 +1597,11 @@ Overfull \hbox (7.48499pt too wide) in paragraph at lines 28--29
  [][][] 
  []
 
-[79 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/AppendixFocu
-sGroup/FocusGroup.pdf>]
+[81 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/AppendixFocusGroup/FocusGroup.pdf>]
 LuaTeX warning (file ch3/AppendixQuestionnaires/Questionnaire.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<ch3/AppendixQuestionnaires/Questionnaire.pdf, id=1491, 614.295pt x 794.97pt>
+<ch3/AppendixQuestionnaires/Questionnaire.pdf, id=1500, 614.295pt x 794.97pt>
 File: ch3/AppendixQuestionnaires/Questionnaire.pdf Graphic file (type pdf)
 
 <use ch3/AppendixQuestionnaires/Questionnaire.pdf>
@@ -1580,10 +1613,10 @@ Overfull \hbox (7.48499pt too wide) in paragraph at lines 38--39
  [][][] 
  []
 
-[80 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch3/AppendixQues
-tionnaires/Questionnaire.pdf>]
+[82 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch3/AppendixQuestionnaires/Questionnaire.pdf>]
 Appendix B.
-<ch5/UsabilityQuestionnaire1.pdf, id=1508, 614.295pt x 794.97pt>
+<ch5/UsabilityQuestionnaire1.pdf, id=1516, 614.295pt x 794.97pt>
 File: ch5/UsabilityQuestionnaire1.pdf Graphic file (type pdf)
 
 <use ch5/UsabilityQuestionnaire1.pdf>
@@ -1595,7 +1628,7 @@ Overfull \hbox (43.62169pt too wide) in paragraph at lines 51--54
  [][][] 
  []
 
-<ch5/UsabilityQuestionnaire2.pdf, id=1509, 614.295pt x 794.97pt>
+<ch5/UsabilityQuestionnaire2.pdf, id=1517, 614.295pt x 794.97pt>
 File: ch5/UsabilityQuestionnaire2.pdf Graphic file (type pdf)
 
 <use ch5/UsabilityQuestionnaire2.pdf>
@@ -1607,11 +1640,11 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 60--63
  [][][] 
  []
 
-[81
+[83
 
- <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/UsabilityQuesti
-onnaire1.pdf>]
-<ch5/UsabilityQuestionnaire3.pdf, id=1543, 614.295pt x 794.97pt>
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/ch5/UsabilityQuestionnaire1.pdf>]
+<ch5/UsabilityQuestionnaire3.pdf, id=1551, 614.295pt x 794.97pt>
 File: ch5/UsabilityQuestionnaire3.pdf Graphic file (type pdf)
 
 <use ch5/UsabilityQuestionnaire3.pdf>
@@ -1623,7 +1656,7 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 68--71
  [][][] 
  []
 
-<ch5/UsabilityQuestionnaire4.pdf, id=1544, 614.295pt x 794.97pt>
+<ch5/UsabilityQuestionnaire4.pdf, id=1552, 614.295pt x 794.97pt>
 File: ch5/UsabilityQuestionnaire4.pdf Graphic file (type pdf)
 
 <use ch5/UsabilityQuestionnaire4.pdf>
@@ -1635,11 +1668,12 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 76--79
  [][][] 
  []
 
-[82 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/UsabilityQue
-stionnaire2.pdf>] [83 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/sr
-c/ch5/UsabilityQuestionnaire3.pdf>] [84 <D:/Dropbox/Master Thesis Final/Smart C
-afeteria Report/src/ch5/UsabilityQuestionnaire4.pdf>]
-<ch5/Result/Desktop/1.pdf, id=1612, 614.295pt x 794.97pt>
+[84 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Rep
+ort/src/ch5/UsabilityQuestionnaire2.pdf>] [85 <D:/Dropbox/Master Thesis Final/M
+aster Thesis Final git/Smart Cafeteria Report/src/ch5/UsabilityQuestionnaire3.p
+df>] [86 <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteri
+a Report/src/ch5/UsabilityQuestionnaire4.pdf>]
+<ch5/Result/Desktop/1.pdf, id=1621, 614.295pt x 794.97pt>
 File: ch5/Result/Desktop/1.pdf Graphic file (type pdf)
 
 <use ch5/Result/Desktop/1.pdf>
@@ -1650,7 +1684,7 @@ Overfull \hbox (14.71243pt too wide) in paragraph at lines 88--91
  [][][] 
  []
 
-<ch5/Result/Desktop/2.pdf, id=1613, 614.295pt x 794.97pt>
+<ch5/Result/Desktop/2.pdf, id=1622, 614.295pt x 794.97pt>
 File: ch5/Result/Desktop/2.pdf Graphic file (type pdf)
 
 <use ch5/Result/Desktop/2.pdf>
@@ -1661,7 +1695,7 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 95--98
  [][][] 
  []
 
-<ch5/Result/Desktop/3.pdf, id=1614, 614.295pt x 794.97pt>
+<ch5/Result/Desktop/3.pdf, id=1623, 614.295pt x 794.97pt>
 File: ch5/Result/Desktop/3.pdf Graphic file (type pdf)
 
 <use ch5/Result/Desktop/3.pdf>
@@ -1672,13 +1706,14 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 103--106
  [][][] 
  []
 
-[85
+[87
 
- <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Result/Desktop/
-1.pdf>] [86 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Resu
-lt/Desktop/2.pdf>] [87 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/s
-rc/ch5/Result/Desktop/3.pdf>]
-<ch5/Result/Mobile/1.pdf, id=1755, 614.295pt x 794.97pt>
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/ch5/Result/Desktop/1.pdf>] [88 <D:/Dropbox/Master Thesis Final/Master Thes
+is Final git/Smart Cafeteria Report/src/ch5/Result/Desktop/2.pdf>] [89 <D:/Drop
+box/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch5/
+Result/Desktop/3.pdf>]
+<ch5/Result/Mobile/1.pdf, id=1763, 614.295pt x 794.97pt>
 File: ch5/Result/Mobile/1.pdf Graphic file (type pdf)
 
 <use ch5/Result/Mobile/1.pdf>
@@ -1689,7 +1724,7 @@ Overfull \hbox (14.71243pt too wide) in paragraph at lines 115--118
  [][][] 
  []
 
-<ch5/Result/Mobile/2.pdf, id=1756, 614.295pt x 794.97pt>
+<ch5/Result/Mobile/2.pdf, id=1764, 614.295pt x 794.97pt>
 File: ch5/Result/Mobile/2.pdf Graphic file (type pdf)
 
 <use ch5/Result/Mobile/2.pdf>
@@ -1700,7 +1735,7 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 122--125
  [][][] 
  []
 
-<ch5/Result/Mobile/3.pdf, id=1757, 614.295pt x 794.97pt>
+<ch5/Result/Mobile/3.pdf, id=1765, 614.295pt x 794.97pt>
 File: ch5/Result/Mobile/3.pdf Graphic file (type pdf)
 
 <use ch5/Result/Mobile/3.pdf>
@@ -1712,33 +1747,35 @@ Overfull \hbox (43.62pt too wide) in paragraph at lines 130--133
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
- [88
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+ [90
 
- <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Result/Mobile/1
-.pdf>] [89 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/ch5/Resul
-t/Mobile/2.pdf>] [90 <D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src
-/ch5/Result/Mobile/3.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/ch5/Result/Mobile/1.pdf>] [91 <D:/Dropbox/Master Thesis Final/Master Thesi
+s Final git/Smart Cafeteria Report/src/ch5/Result/Mobile/2.pdf>] [92 <D:/Dropbo
+x/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report/src/ch5/Re
+sult/Mobile/3.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
 
-("D:/Dropbox/Master Thesis Final/Smart Cafeteria Report/src/Thesis Main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+("D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Report
+/src/Thesis Main.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `"Thesis Main".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  )
 
 Here is how much of LuaTeX's memory you used:
- 11139 strings out of 495011
+ 11141 strings out of 495011
  100000,319454 words of node,token memory allocated
- 769 words of node memory still in use:
+ 770 words of node memory still in use:
     nodes
-   avail lists: 2:27,3:556,4:1044,5:277,6:2978,7:413,8:42,9:458,10:305
+   avail lists: 2:27,3:557,4:1043,5:277,6:2978,7:413,8:42,9:458,10:305
  13556 multiletter control sequences out of 65536+200000
  60 fonts using 2370223 bytes
  36i,11n,43p,263b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1756,9 +1793,9 @@ e1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17
 les/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsy10.pfb>
-Output written on Thesis Main.pdf (101 pages, 5434144 bytes).
+Output written on Thesis Main.pdf (103 pages, 5435920 bytes).
 
-PDF statistics: 1873 PDF objects out of 2073 (max. 8388607)
- 399 named destinations out of 1000 (max. 131072)
+PDF statistics: 1882 PDF objects out of 2073 (max. 8388607)
+ 401 named destinations out of 1000 (max. 131072)
  713 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,40 +12,40 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces different menu of Mensa in University of Trento.\relax }}{26}{figure.caption.24}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces QR BARCODE\relax }}{29}{figure.caption.26}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Use Case Diagram of System User\relax }}{33}{figure.caption.28}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Use Case Diagram of System Administrator\relax }}{34}{figure.caption.29}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Use Case Diagram of System Application\relax }}{35}{figure.caption.30}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Use Case Diagram of Pos Terminal\relax }}{36}{figure.caption.31}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Class Diagram of Smart Cafeteria\relax }}{37}{figure.caption.32}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces System User Activity Diagram of Smart Cafeteria\relax }}{40}{figure.caption.33}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces System Administrator Activity Diagram\relax }}{41}{figure.caption.34}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces System Activity Diagram\relax }}{42}{figure.caption.35}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Point of Sale Activity Diagram\relax }}{43}{figure.caption.36}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Use Case Diagram of System Administrator\relax }}{35}{figure.caption.29}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Use Case Diagram of System Application\relax }}{36}{figure.caption.30}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Use Case Diagram of Pos Terminal\relax }}{37}{figure.caption.31}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Class Diagram of Smart Cafeteria\relax }}{38}{figure.caption.32}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces System User Activity Diagram of Smart Cafeteria\relax }}{42}{figure.caption.33}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces System Administrator Activity Diagram\relax }}{43}{figure.caption.34}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces System Activity Diagram\relax }}{44}{figure.caption.35}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Point of Sale Activity Diagram\relax }}{45}{figure.caption.36}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Conceptual Architecture of Smart Cafeteria[Top Level]\relax }}{45}{figure.caption.37}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Conceptual Design of Smart Cafeteria[Server Level]\relax }}{45}{figure.caption.38}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces SOA Architecture of Smart Cafeteria\relax }}{47}{figure.caption.39}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Index of Smart Cafeteria\relax }}{49}{figure.caption.40}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Dashboard of Smart Cafeteria [Navigation]\relax }}{50}{figure.caption.41}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Dashboard of Smart Cafeteria [Today's \& Suggested food menu]\relax }}{50}{figure.caption.42}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Installed Smart Cafeteria Apps(Left). Index page of Smart Cafeteria (Right).\relax }}{51}{figure.caption.43}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces User Registration step one of smart cafeteria (Left). User Registration step two of smart cafeteria (Right).\relax }}{52}{figure.caption.44}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces User Login of smart cafeteria (Left). User Password Recovery of smart cafeteria (Right).\relax }}{53}{figure.caption.45}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Dieting Report for User of smart cafeteria (Left). Nutrition Suggestion of smart cafeteria (Right).\relax }}{54}{figure.caption.46}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces : Following Friends for User of smart cafeteria (Left). Friends activity of smart cafeteria (Right).\relax }}{55}{figure.caption.47}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Conceptual Architecture of Smart Cafeteria[Top Level]\relax }}{47}{figure.caption.37}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Conceptual Design of Smart Cafeteria[Server Level]\relax }}{47}{figure.caption.38}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces SOA Architecture of Smart Cafeteria\relax }}{49}{figure.caption.39}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Index of Smart Cafeteria\relax }}{51}{figure.caption.40}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Dashboard of Smart Cafeteria [Navigation]\relax }}{52}{figure.caption.41}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Dashboard of Smart Cafeteria [Today's \& Suggested food menu]\relax }}{52}{figure.caption.42}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Installed Smart Cafeteria Apps(Left). Index page of Smart Cafeteria (Right).\relax }}{53}{figure.caption.43}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces User Registration step one of smart cafeteria (Left). User Registration step two of smart cafeteria (Right).\relax }}{54}{figure.caption.44}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces User Login of smart cafeteria (Left). User Password Recovery of smart cafeteria (Right).\relax }}{55}{figure.caption.45}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Dieting Report for User of smart cafeteria (Left). Nutrition Suggestion of smart cafeteria (Right).\relax }}{56}{figure.caption.46}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces : Following Friends for User of smart cafeteria (Left). Friends activity of smart cafeteria (Right).\relax }}{57}{figure.caption.47}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Perform Login(Left).Search Food Menu(Right).\relax }}{60}{figure.caption.48}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Create Food Menu(Left). Search friend(Right).\relax }}{61}{figure.caption.49}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Check your Diet Report(Left). Check followers(Right).\relax }}{61}{figure.caption.50}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Check Time Schedule(Left). Check who are Following you (Right).\relax }}{61}{figure.caption.51}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Check friend's activities\relax }}{62}{figure.caption.52}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Comparison of Tasks Performance.\relax }}{62}{figure.caption.53}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Desktop Evaluation Statistics.\relax }}{66}{figure.caption.59}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Mobile Evaluation Statistics.\relax }}{68}{figure.caption.64}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Perform Login(Left).Search Food Menu(Right).\relax }}{62}{figure.caption.48}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Create Food Menu(Left). Search friend(Right).\relax }}{63}{figure.caption.49}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Check your Diet Report(Left). Check followers(Right).\relax }}{63}{figure.caption.50}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Check Time Schedule(Left). Check who are Following you (Right).\relax }}{63}{figure.caption.51}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Check friend's activities\relax }}{64}{figure.caption.52}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Comparison of Tasks Performance.\relax }}{64}{figure.caption.53}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Desktop Evaluation Statistics.\relax }}{68}{figure.caption.59}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Mobile Evaluation Statistics.\relax }}{70}{figure.caption.64}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces different menu of Mensa in University of Trento.\relax }}{76}{figure.caption.67}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Time Schedule of Mensa in University of Trento.\relax }}{77}{figure.caption.68}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Weekly lunch menu of Mensa in University of Trento.\relax }}{78}{figure.caption.69}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces FocusGroup\relax }}{79}{figure.caption.70}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Questionnaire\relax }}{80}{figure.caption.71}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces different menu of Mensa in University of Trento.\relax }}{78}{figure.caption.67}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Time Schedule of Mensa in University of Trento.\relax }}{79}{figure.caption.68}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Weekly lunch menu of Mensa in University of Trento.\relax }}{80}{figure.caption.69}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces FocusGroup\relax }}{81}{figure.caption.70}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Questionnaire\relax }}{82}{figure.caption.71}
 \addvspace {10\p@ }
