@@ -14,5 +14,3 @@
 \beamer@subsectionintoc {5}{1}{Evaluation Methodology}{17}{0}{4}
 \beamer@subsectionintoc {5}{2}{Evaluation Result}{18}{0}{4}
 \beamer@sectionintoc {6}{Conclusion}{20}{0}{5}
-\beamer@subsectionintoc {6}{1}{Future Work}{21}{0}{5}
-\beamer@subsectionintoc {6}{2}{Questions}{22}{0}{5}
