@@ -1,20 +1,18 @@
 \beamer@endinputifotherversion {3.26pt}
-\beamer@sectionintoc {2}{Thesis Background}{3}{0}{1}
-\beamer@sectionintoc {3}{Problem Statement}{5}{0}{2}
-\beamer@subsectionintoc {3}{1}{Scenarios}{6}{0}{2}
-\beamer@subsectionintoc {3}{2}{Objective}{7}{0}{2}
-\beamer@subsectionintoc {3}{3}{Proposed Solution}{8}{0}{2}
-\beamer@sectionintoc {4}{Analysis}{9}{0}{3}
-\beamer@subsectionintoc {4}{1}{Stakeholders}{10}{0}{3}
-\beamer@subsectionintoc {4}{2}{Functional \& Non Functional Requirements}{11}{0}{3}
-\beamer@subsectionintoc {4}{3}{Data Gathering \& More Requirements }{12}{0}{3}
-\beamer@sectionintoc {5}{Design}{13}{0}{4}
-\beamer@subsectionintoc {5}{1}{Desktop Prototype}{14}{0}{4}
-\beamer@subsectionintoc {5}{2}{Mobile Prototype}{17}{0}{4}
-\beamer@subsectionintoc {5}{3}{Features of Smart Cafeteria}{18}{0}{4}
-\beamer@sectionintoc {6}{Usability Evaluation}{19}{0}{5}
-\beamer@subsectionintoc {6}{1}{Evaluation Methodology}{20}{0}{5}
-\beamer@subsectionintoc {6}{2}{Evaluation Result}{21}{0}{5}
-\beamer@sectionintoc {7}{Conclusion}{24}{0}{6}
-\beamer@subsectionintoc {7}{1}{Future Work}{25}{0}{6}
-\beamer@subsectionintoc {7}{2}{Questions}{26}{0}{6}
+\beamer@sectionintoc {2}{Problem Statement}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Scenarios}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Objective}{5}{0}{1}
+\beamer@subsectionintoc {2}{3}{Proposed Solution}{6}{0}{1}
+\beamer@sectionintoc {3}{Analysis}{7}{0}{2}
+\beamer@subsectionintoc {3}{1}{Stakeholders}{8}{0}{2}
+\beamer@subsectionintoc {3}{2}{Functional \& Non Functional Requirements}{9}{0}{2}
+\beamer@subsectionintoc {3}{3}{Data Gathering \& More Requirements }{10}{0}{2}
+\beamer@sectionintoc {4}{Design}{11}{0}{3}
+\beamer@subsectionintoc {4}{1}{Desktop Prototype}{12}{0}{3}
+\beamer@subsectionintoc {4}{2}{Mobile Prototype}{15}{0}{3}
+\beamer@sectionintoc {5}{Usability Evaluation}{16}{0}{4}
+\beamer@subsectionintoc {5}{1}{Evaluation Methodology}{17}{0}{4}
+\beamer@subsectionintoc {5}{2}{Evaluation Result}{18}{0}{4}
+\beamer@sectionintoc {6}{Conclusion}{20}{0}{5}
+\beamer@subsectionintoc {6}{1}{Future Work}{21}{0}{5}
+\beamer@subsectionintoc {6}{2}{Questions}{22}{0}{5}

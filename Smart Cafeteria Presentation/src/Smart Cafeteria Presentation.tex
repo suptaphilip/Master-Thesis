@@ -91,21 +91,21 @@ and Computer Science\\
 \end{multicols} 
  }
 
-\section[background]{Thesis Background}
-
-\begin{frame}\frametitle{Thesis Background}
-\textbf{``Smart Cafeteria''}
- \begin{itemize}
- \item is a part of Smart Campus Project. \\
-  \includegraphics[height=1.5cm,width=1.5cm]{images/smartcampuslab.png} \\
- \url{http://www.smartcampuslab.it/}
-
-
- \item Smart Campus has funded by Trento RISE. \\
- \includegraphics[height=1.5cm,width=2cm]{images/trentorise.jpg} \\
- \url{http://www.trentorise.eu/}
- \end{itemize}
-\end{frame}
+% \section[background]{Thesis Background}
+% 
+% \begin{frame}\frametitle{Thesis Background}
+% \textbf{``Smart Cafeteria''}
+%  \begin{itemize}
+%  \item is a part of Smart Campus Project. \\
+%   \includegraphics[height=1.5cm,width=1.5cm]{images/smartcampuslab.png} \\
+%  \url{http://www.smartcampuslab.it/}
+% 
+% 
+%  \item Smart Campus has funded by Trento RISE. \\
+%  \includegraphics[height=1.5cm,width=2cm]{images/trentorise.jpg} \\
+%  \url{http://www.trentorise.eu/}
+%  \end{itemize}
+% \end{frame}
 
 \section[Statement]{Problem Statement}
 \subsection{Scenarios}
@@ -145,14 +145,13 @@ Services:
  \item  Lunch with Friends.
  \end{itemize}
 
-System has 3 type of serves:
+System should:
 \begin{itemize}
  \item  Provide online cafeteria services.
  \item  Provide dieting services to the students.
  \item  Provide social collaboration services in the application.
  \end{itemize}
 \end{frame}
-
 
 \subsection{Proposed Solution}
 \begin{frame}\frametitle{Proposed Solution}
@@ -209,7 +208,6 @@ Non Functional Requirements
  \item  Portability.
  \item  Adaptability.
  \item  Safety and security.
- \item Documentation Requirements.
  \end{itemize}
   
 \end{block}
@@ -221,7 +219,6 @@ Non Functional Requirements
 \begin{frame}\frametitle{Data Gathering \& More Requirements}
 \begin{block}{Data Gathering \& More Requirements}
  \begin{itemize}
- \item  Studying Cafeteria’s Food Menu and Documents.
  \item  Focus Group - 7 participants.
  \item  Questionnaires.
  \end{itemize}
@@ -230,7 +227,7 @@ Non Functional Requirements
  \begin{itemize}
  \item ``Smart Cafeteria'' is usefull application.
  \item Found 5 more functional requirement.
- \item Design UML (Use case, Class Diagram, etc.)
+ \item Design UML (4 Use Case, Class Diagram, 4 Activity Diagram.)
  \end{itemize}
 \end{block}
 \end{frame}
@@ -262,46 +259,73 @@ Non Functional Requirements
 \end{frame}
 \subsection{Mobile Prototype}
 \begin{frame}\frametitle{Mobile Prototype}
+ \centering 
+  \includegraphics[height=6cm,width=4cm]{images/mobile-index.png}
+   \ \ \ \ \ \ 
+  \includegraphics[height=6cm,width=4cm]{images/mobile-registration-step1.png}
+  %\includegraphics[height=6cm,width=4cm]{images/mobile-registration-step2.png}
 
 \end{frame}
 
-\subsection{Features of Smart Cafeteria}
-\begin{frame}\frametitle{Features of Smart Cafeteria}
-
-\end{frame}
+% \subsection{Features of Smart Cafeteria Design}
+% \begin{frame}\frametitle{Features of Smart Cafeteria Design}
+% Key Features of Smart Cafeteria Design
+%  \begin{itemize}
+%  \item Online Cafeteria services.
+%  \item Adaptive services.
+%  \item Social collaboration services.
+%  \item Mobile Interaction.
+%  \end{itemize}
+% 
+% \end{frame}
 
 \section[Evaluation]{Usability Evaluation}
 \subsection{Evaluation Methodology}
 \begin{frame}\frametitle{Evaluation Methodology}
-User studies and questionnaire Methodology\\
-Target Users (10) students\\
-Given them 9 tasks to perform\\
-Given them 14 questions to test (i) usefulness, (ii) easy to use, (iii) learnability and (iv) Satisfaction\\
-Both Desktop and Mobile Prototype was evaluated.
-
+ \begin{itemize}
+   \item Evaluation Methodology: User studies and questionnaire.
+   \item 10 participants.
+   \item Given them 9 tasks to perform.
+   \item Given them 14 usability questions [likert scale: 1-7] to test.
+ \begin{itemize}
+    \item usefulness
+    \item easy to use
+    \item learnability
+    \item Satisfaction
+\end{itemize}
+	\item Evaluation for Desktop and Mobile Prototype.
+	\item Calculate Mean($\mu$) and Standard deviation($\sigma$)\\
+	$\sigma$ =  $\sqrt{\frac{1}{N}\sum_{i}^{N} (x_i - \mu^2)} $ \\
+	$\mu$ = $\frac{1}{N}\sum_{i}^{N} x_i$.
+\end{itemize}
 \end{frame}
 
 \subsection{Evaluation Result}
-\begin{frame}\frametitle{Evaluation Result}
-the result was analyzed calculating Mean($\mu$) and Standard deviation($\sigma$).
-
-Standard Deviation, $\sigma$ =  $\sqrt{\frac{1}{N}\sum_{i}^{N} (x_i - \mu^2)} $
-where Mean, $\mu$ = $\frac{1}{N}\sum_{i}^{N} x_i$.
-\end{frame}
-
 \begin{frame}\frametitle{Result for desktop Prototye}
-Result for desktop
+\centering
+  \includegraphics[height=6cm,width=10cm]{images/UsabilityEvaluationGraphDesktop.jpg}
 
 \end{frame}
 \begin{frame}\frametitle{Result for Mobile Prototye}
-Result for Mobile
+\centering
+\includegraphics[height=6cm,width=10cm]{images/UsabilityEvaluationGraphMobile.jpg}
 \end{frame}
 
 \section[Conclusion]{Conclusion}
 \subsection{Future Work}
 \begin{frame}\frametitle{Future Work}
-
-
+Future Work
+ \begin{itemize}
+    \item Build high fidelity prototype [full functional] 
+    \item Machine Learning for adaptability
+    \item More User Study for better usability
+\end{itemize}
+\ \\
+Resources 
+ \begin{itemize}
+    \item Github Repository \url{https://github.com/suptaphilip/Master-Thesis}
+    %\item Github Page \url{http://suptaphilip.github.io/Master-Thesis/}
+\end{itemize}
 \end{frame}
 
 \subsection{Questions}
