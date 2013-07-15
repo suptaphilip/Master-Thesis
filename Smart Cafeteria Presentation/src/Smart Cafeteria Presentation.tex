@@ -59,7 +59,7 @@ and Computer Science\\
   \frame<beamer>{\begin{multicols}{2}
   \frametitle{Outline}
   \setcounter{tocdepth}{2}  
-  \tableofcontents[currentsection,subsections]
+  \tableofcontents[currentsection,subsection]
 \end{multicols} 
  }
 }
@@ -67,7 +67,7 @@ and Computer Science\\
  \begin{document}
  
  {
- 	 \begingroup
+ 	\begingroup
 	\addtocounter{framenumber}{-1}
  	 %gets rid of bottom navigation bars
 	\setbeamertemplate{footline}{}
@@ -81,15 +81,15 @@ and Computer Science\\
  	\endgroup
 }
 
- \section*{Outline}
- \phantomsection
-%\addcontentsline{toc}{sec}{Outline}
- \frame<beamer>{\begin{multicols}{2}
-  \frametitle{Outline of Thesis}
-  \setcounter{tocdepth}{2}  
-  \tableofcontents
-\end{multicols} 
- }
+%  \section*{Outline}
+%  \phantomsection
+% %\addcontentsline{toc}{sec}{Outline}
+%  \frame<beamer>{\begin{multicols}{2}
+%   \frametitle{Outline of Thesis}
+%   \setcounter{tocdepth}{2}  
+%   \tableofcontents
+% \end{multicols} 
+%  }
 
 % \section[background]{Thesis Background}
 % 
@@ -120,7 +120,7 @@ and Computer Science\\
 \begin{itemize}
  \item How to skip the long queue.
  \item How could know Today's menu.
- \item Appropriate menu for me(calorie, price).
+ \item How could find appropriate menu(calorie, price).
  \item Collaborate and share feeling.
  \item How technology can help.
  \end{itemize}
@@ -138,7 +138,7 @@ and Computer Science\\
 \begin{frame}\frametitle{Objective}
 Services:
 \begin{itemize}
- \item  Mensa Queue Skipper.
+ \item  Cafeteria Queue Skipper.
  \item  Menu Finder.
  \item  Menu Suggester and Dieting Adviser.
  \item  Customized Menu creator.
@@ -147,9 +147,9 @@ Services:
 
 System should:
 \begin{itemize}
- \item  Provide online cafeteria services.
- \item  Provide dieting services to the students.
- \item  Provide social collaboration services.
+ \item  provide online cafeteria services.
+ \item  provide dieting services to users.
+ \item  provide social collaboration services.
  \end{itemize}
 \end{frame}
 
@@ -238,15 +238,14 @@ Non Functional Requirements
 \begin{frame}\frametitle[allowframebreaks]{Desktop Prototype[Index Page]}
 
 \centering
-  \includegraphics[height=6cm,width=10cm]{images/index.jpg}
-
+  \includegraphics[height=7.7cm,width=12.2cm]{images/index.jpg}
 \end{frame}
 
 \framebreak
 \begin{frame}\frametitle{Desktop Prototype[User Dashboard]}
 
 \centering
-  \includegraphics[height=6cm,width=10cm]{images/dashboard.jpg}
+  \includegraphics[height=7.7cm,width=12.2cm]{images/dashboard.jpg}
 
 \end{frame}
 
@@ -254,7 +253,7 @@ Non Functional Requirements
 \begin{frame}\frametitle{Desktop Prototype[Suggested Food Menu]}
 
 \centering
-  \includegraphics[height=6cm,width=10cm]{images/foodmenusuggestion.jpg}
+  \includegraphics[height=7.7cm,width=12.2cm]{images/foodmenusuggestion.jpg}
 
 \end{frame}
 \subsection{Mobile Prototype}
@@ -286,29 +285,29 @@ Non Functional Requirements
    \item Evaluation Methodology: User studies and questionnaire.
    \item 10 participants.
    \item Given them 9 tasks to perform.
-   \item Given them 14 usability questions [likert scale: 1-7] to test.
+   \item Given them 14 usability questions [likert scale: 1-7] to evaluate.
  \begin{itemize}
     \item usefulness
     \item easy to use
     \item learnability
     \item Satisfaction
 \end{itemize}
-	\item Evaluation for Desktop and Mobile Prototype.
-	\item Calculate Mean($\mu$) and Standard deviation($\sigma$)\\
+	\item Evaluation for both Desktop and Mobile Prototype.
+	\item Result calculate using Mean($\mu$) and Standard deviation($\sigma$)\\
 	$\sigma$ =  $\sqrt{\frac{1}{N}\sum_{i}^{N} (x_i - \mu^2)} $ \\
 	$\mu$ = $\frac{1}{N}\sum_{i}^{N} x_i$.
 \end{itemize}
 \end{frame}
 
 \subsection{Evaluation Result}
-\begin{frame}\frametitle{Result for desktop Prototye}
+\begin{frame}\frametitle{Evaluation Result for Desktop Prototye}
 \centering
-  \includegraphics[height=6cm,width=10cm]{images/UsabilityEvaluationGraphDesktop.jpg}
+  \includegraphics[height=6.5cm,width=10.5cm]{images/UsabilityEvaluationGraphDesktop.jpg}
 
 \end{frame}
-\begin{frame}\frametitle{Result for Mobile Prototye}
+\begin{frame}\frametitle{Evaluation Result for Mobile Prototye}
 \centering
-\includegraphics[height=6cm,width=10cm]{images/UsabilityEvaluationGraphMobile.jpg}
+\includegraphics[height=6.5cm,width=10.5cm]{images/UsabilityEvaluationGraphMobile.jpg}
 \end{frame}
 
 \section[Conclusion]{Conclusion}
@@ -318,14 +317,14 @@ Non Functional Requirements
 \begin{frame}\frametitle{Conclusion and Future Work}
 ``Smart Cafeteria''
  \begin{itemize}
-    \item Could solve the problems mostly [reduce queue time].
+    \item could solve the problems mostly [reduce queue time through notification].
     \item is adaptive [its functionalities].
-    \item is interactive [usability].
+    \item is interactive [Usability Evaluation].
 \end{itemize}
 Future Work
  \begin{itemize}
     \item Build high fidelity prototype [full functional]. 
-    \item Find best machine learning approach for adaptability.
+    \item Find out best machine learning approach for adaptability.
     \item More User Study for better usability.
 \end{itemize}
 \ \\

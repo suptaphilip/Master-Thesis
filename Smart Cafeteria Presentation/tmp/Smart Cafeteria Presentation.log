@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.2.17)  9 JUL 2013 06:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.2.17)  16 JUL 2013 00:49
 entering extended mode
 **Smart*Cafeteria*Presentation.tex
 
@@ -1027,38 +1027,29 @@ Logo/logo.jpg>]
 tation\src\Smart Cafeteria Presentation.toc")
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 92.
+Package pdftex.def Info: Logo/logo.jpg used on input line 110.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
  [2
 
 ]
-("D:\Dropbox\Master Thesis Final\Master Thesis Final git\Smart Cafeteria Presen
-tation\src\Smart Cafeteria Presentation.toc")
-File: Logo/logo.jpg Graphic file (type jpg)
- <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 110.
-(pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [3
-
-]
-<images/hungrystudent.jpg, id=153, 1834.855pt x 2231.33624pt>
+<images/hungrystudent.jpg, id=109, 552.0625pt x 401.5pt>
 File: images/hungrystudent.jpg Graphic file (type jpg)
 
 <use images/hungrystudent.jpg>
 Package pdftex.def Info: images/hungrystudent.jpg used on input line 134.
-(pdftex.def)             Requested size: 128.033pt x 113.78642pt.
+(pdftex.def)             Requested size: 128.0331pt x 113.80992pt.
 
-<images/busyprofessor.jpg, id=154, 632.3625pt x 421.575pt>
+<images/busyprofessor.jpg, id=110, 803.0pt x 534.99875pt>
 File: images/busyprofessor.jpg Graphic file (type jpg)
 
 <use images/busyprofessor.jpg>
 Package pdftex.def Info: images/busyprofessor.jpg used on input line 134.
-(pdftex.def)             Requested size: 128.0334pt x 113.80746pt.
+(pdftex.def)             Requested size: 128.02927pt x 113.80614pt.
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 134.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [4
+ [3
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
 tation/src/images/hungrystudent.jpg> <D:/Dropbox/Master Thesis Final/Master The
@@ -1067,7 +1058,7 @@ File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 154.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [5
+ [4
 
 ]
 File: Logo/logo.jpg Graphic file (type jpg)
@@ -1075,7 +1066,7 @@ File: Logo/logo.jpg Graphic file (type jpg)
 <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 173.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [6
+ [5
 
 ]
 ("D:\Dropbox\Master Thesis Final\Master Thesis Final git\Smart Cafeteria Presen
@@ -1084,7 +1075,7 @@ File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 176.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [7
+ [6
 
 ]
 Missing character: There is no ’ in font cmss10!
@@ -1094,21 +1085,21 @@ File: Logo/logo.jpg Graphic file (type jpg)
 <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 195.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [8
+ [7
 
 ]
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 216.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [9
+ [8
 
 ]
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 233.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [10
+ [9
 
 ]
 ("D:\Dropbox\Master Thesis Final\Master Thesis Final git\Smart Cafeteria Presen
@@ -1117,70 +1108,84 @@ File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
 Package pdftex.def Info: Logo/logo.jpg used on input line 235.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [11
+ [10
 
 ]
-<images/index.jpg, id=397, 1501.61pt x 866.23625pt>
+<images/index.jpg, id=353, 1195.46625pt x 836.12375pt>
 File: images/index.jpg Graphic file (type jpg)
  <use images/index.jpg>
-Package pdftex.def Info: images/index.jpg used on input line 243.
-(pdftex.def)             Requested size: 284.52983pt x 170.70638pt.
-File: Logo/logo.jpg Graphic file (type jpg)
+Package pdftex.def Info: images/index.jpg used on input line 242.
+(pdftex.def)             Requested size: 347.11412pt x 219.08388pt.
 
+Overfull \hbox (4.81882pt too wide) in paragraph at lines 242--242
+ [][][] 
+ []
+
+File: Logo/logo.jpg Graphic file (type jpg)
 <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 243.
+Package pdftex.def Info: Logo/logo.jpg used on input line 242.
+(pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
+ [11
+
+ <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
+tation/src/images/index.jpg>]
+<images/dashboard.jpg, id=382, 1009.7725pt x 645.41125pt>
+File: images/dashboard.jpg Graphic file (type jpg)
+
+<use images/dashboard.jpg>
+Package pdftex.def Info: images/dashboard.jpg used on input line 250.
+(pdftex.def)             Requested size: 347.12386pt x 219.08238pt.
+
+Overfull \hbox (4.82855pt too wide) in paragraph at lines 250--250
+ [][][] 
+ []
+
+File: Logo/logo.jpg Graphic file (type jpg)
+<use Logo/logo.jpg>
+Package pdftex.def Info: Logo/logo.jpg used on input line 250.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
  [12
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
-tation/src/images/index.jpg>]
-<images/dashboard.jpg, id=426, 1496.59125pt x 863.225pt>
-File: images/dashboard.jpg Graphic file (type jpg)
+tation/src/images/dashboard.jpg>]
+<images/foodmenusuggestion.jpg, id=408, 1023.825pt x 806.01125pt>
+File: images/foodmenusuggestion.jpg Graphic file (type jpg)
 
-<use images/dashboard.jpg>
-Package pdftex.def Info: images/dashboard.jpg used on input line 251.
-(pdftex.def)             Requested size: 284.51515pt x 170.70569pt.
+<use images/foodmenusuggestion.jpg>
+Package pdftex.def Info: images/foodmenusuggestion.jpg used on input line 258.
+(pdftex.def)             Requested size: 347.1117pt x 219.0772pt.
+
+Overfull \hbox (4.81639pt too wide) in paragraph at lines 258--258
+ [][][] 
+ []
+
 File: Logo/logo.jpg Graphic file (type jpg)
- <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 251.
+<use Logo/logo.jpg>
+Package pdftex.def Info: Logo/logo.jpg used on input line 258.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
  [13
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
-tation/src/images/dashboard.jpg>] <images/foodmenusuggestion.jpg, id=453, 1483.
-5425pt x 869.2475pt>
-File: images/foodmenusuggestion.jpg Graphic file (type jpg)
-
-<use images/foodmenusuggestion.jpg>
-Package pdftex.def Info: images/foodmenusuggestion.jpg used on input line 259.
-(pdftex.def)             Requested size: 284.52454pt x 170.7162pt.
-File: Logo/logo.jpg Graphic file (type jpg)
- <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 259.
-(pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [14
-
- <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
-tation/src/images/foodmenusuggestion.jpg>] <images/mobile-index.png, id=479, 48
-1.8pt x 803.0pt>
+tation/src/images/foodmenusuggestion.jpg>]
+<images/mobile-index.png, id=435, 481.8pt x 803.0pt>
 File: images/mobile-index.png Graphic file (type png)
 
 <use images/mobile-index.png>
-Package pdftex.def Info: images/mobile-index.png used on input line 268.
+Package pdftex.def Info: images/mobile-index.png used on input line 267.
 (pdftex.def)             Requested size: 113.81114pt x 170.71794pt.
 
-<images/mobile-registration-step1.png, id=480, 481.8pt x 803.0pt>
+<images/mobile-registration-step1.png, id=436, 481.8pt x 803.0pt>
 File: images/mobile-registration-step1.png Graphic file (type png)
 
 <use images/mobile-registration-step1.png>
 Package pdftex.def Info: images/mobile-registration-step1.png used on input lin
-e 268.
+e 267.
 (pdftex.def)             Requested size: 113.81114pt x 170.71794pt.
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 268.
+Package pdftex.def Info: Logo/logo.jpg used on input line 267.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [15
+ [14
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
 tation/src/images/mobile-index.png> <D:/Dropbox/Master Thesis Final/Master Thes
@@ -1190,46 +1195,46 @@ png>]
 tation\src\Smart Cafeteria Presentation.toc")
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 282.
+Package pdftex.def Info: Logo/logo.jpg used on input line 281.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [16
+ [15
 
 ]
 File: Logo/logo.jpg Graphic file (type jpg)
 
 <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 301.
+Package pdftex.def Info: Logo/logo.jpg used on input line 300.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [17
+ [16
 
 ]
-<images/UsabilityEvaluationGraphDesktop.jpg, id=581, 754.82pt x 467.7475pt>
+<images/UsabilityEvaluationGraphDesktop.jpg, id=537, 961.5925pt x 519.9425pt>
 File: images/UsabilityEvaluationGraphDesktop.jpg Graphic file (type jpg)
 
 <use images/UsabilityEvaluationGraphDesktop.jpg>
 Package pdftex.def Info: images/UsabilityEvaluationGraphDesktop.jpg used on inp
-ut line 308.
-(pdftex.def)             Requested size: 284.51955pt x 170.7157pt.
+ut line 307.
+(pdftex.def)             Requested size: 298.75087pt x 184.94186pt.
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 308.
+Package pdftex.def Info: Logo/logo.jpg used on input line 307.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [18
+ [17
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
 tation/src/images/UsabilityEvaluationGraphDesktop.jpg>]
-<images/UsabilityEvaluationGraphMobile.jpg, id=608, 819.06pt x 476.78125pt>
+<images/UsabilityEvaluationGraphMobile.jpg, id=564, 1060.96375pt x 536.0025pt>
 File: images/UsabilityEvaluationGraphMobile.jpg Graphic file (type jpg)
 
 <use images/UsabilityEvaluationGraphMobile.jpg>
 Package pdftex.def Info: images/UsabilityEvaluationGraphMobile.jpg used on inpu
-t line 312.
-(pdftex.def)             Requested size: 284.52567pt x 170.71718pt.
+t line 311.
+(pdftex.def)             Requested size: 298.75148pt x 184.93741pt.
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 312.
+Package pdftex.def Info: Logo/logo.jpg used on input line 311.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [19
+ [18
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
 tation/src/images/UsabilityEvaluationGraphMobile.jpg>]
@@ -1237,47 +1242,47 @@ tation/src/images/UsabilityEvaluationGraphMobile.jpg>]
 tation\src\Smart Cafeteria Presentation.toc")
 File: Logo/logo.jpg Graphic file (type jpg)
  <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 314.
+Package pdftex.def Info: Logo/logo.jpg used on input line 313.
+(pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
+ [19
+
+]
+File: Logo/logo.jpg Graphic file (type jpg)
+
+<use Logo/logo.jpg>
+Package pdftex.def Info: Logo/logo.jpg used on input line 336.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
  [20
 
 ]
-File: Logo/logo.jpg Graphic file (type jpg)
-
-<use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 337.
-(pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [21
-
-]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 347.
+(Font)              using `OT1/cmss/bx/n' instead on input line 346.
 
-<images/question.jpg, id=705, 433.62pt x 375.804pt>
+<images/question.jpg, id=661, 433.62pt x 375.804pt>
 File: images/question.jpg Graphic file (type jpg)
  <use images/question.jpg>
-Package pdftex.def Info: images/question.jpg used on input line 347.
+Package pdftex.def Info: images/question.jpg used on input line 346.
 (pdftex.def)             Requested size: 113.81041pt x 113.80864pt.
 File: Logo/logo.jpg Graphic file (type jpg)
 
 <use Logo/logo.jpg>
-Package pdftex.def Info: Logo/logo.jpg used on input line 347.
+Package pdftex.def Info: Logo/logo.jpg used on input line 346.
 (pdftex.def)             Requested size: 28.30869pt x 28.45094pt.
- [22
+ [21
 
  <D:/Dropbox/Master Thesis Final/Master Thesis Final git/Smart Cafeteria Presen
 tation/src/images/question.jpg>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
 
 ("D:\Dropbox\Master Thesis Final\Master Thesis Final git\Smart Cafeteria Presen
 tation\src\Smart Cafeteria Presentation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `Smart*Cafeteria*Presentation.out' has not ch
 anged.
 (rerunfilecheck)             Checksum: <no file>.
@@ -1289,13 +1294,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
  ) 
 Here is how much of TeX's memory you used:
- 16019 strings out of 493921
- 308076 string characters out of 3147276
- 373348 words of memory out of 3000000
- 18839 multiletter control sequences out of 15000+200000
+ 16009 strings out of 493921
+ 307765 string characters out of 3147276
+ 373346 words of memory out of 3000000
+ 18834 multiletter control sequences out of 15000+200000
  13210 words of font info for 49 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  49i,16n,62p,439b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1309,10 +1314,10 @@ ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on "Smart Cafeteria Presentation.pdf" (22 pages, 2279117 bytes).
+Output written on "Smart Cafeteria Presentation.pdf" (21 pages, 1626767 bytes).
 
 PDF statistics:
- 779 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 734 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
