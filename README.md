@@ -10,8 +10,13 @@ The template prototype was designed using html5, css3, twitter bootstrap, jQuery
 
 The final Report of Smart Cafeteria has been compiled using Miktex and Eclipse TeXlipse plugins. The report contains all my work from beginning to end.
 
+[Download Link](https://github.com/suptaphilip/Master-Thesis/raw/master/Smart%20Cafeteria%20Report/pdf/Master%20Thesis-Smart%20Cafeteria.pdf)
+
 ### Smart Cafeteria Presentation
 The presentation has been built using Latex Beamer. 
+
+[Download Link](https://github.com/suptaphilip/Master-Thesis/raw/master/Smart%20Cafeteria%20Presentation/pdf/Smart%20Cafeteria.pdf)
+
 
 ### Acknowledgement
 First of all, I would like thank Almighty God for His kindness.
